@@ -1,3 +1,3 @@
-pub fun main(x: Strig, y: String): String {
+pub fun main(x: String, y: String): String {
     return x + y
 }
